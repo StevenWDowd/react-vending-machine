@@ -1,0 +1,19 @@
+.NavBar {
+  display: flex;
+  background: lightgreen;
+  height: 4rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.NavBar a {
+  color: red;
+  text-decoration: none;
+  margin: 25px;
+}
+
+.NavBar a.active {
+  color: blue;
+  text-decoration: underline;
+  font-weight: bolder;
+}

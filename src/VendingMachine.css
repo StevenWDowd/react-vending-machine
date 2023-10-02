@@ -1,0 +1,17 @@
+.VendingMachine {
+  margin-top: 2rem;
+}
+
+
+
+.VendingMachine-item {
+  display: block;
+  text-decoration: none;
+  font-size: 2rem;
+  color: blue;
+  margin-bottom: 20px;
+}
+
+.VendingMachine-item:hover {
+  text-decoration: underline;
+}
